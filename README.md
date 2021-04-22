@@ -5,7 +5,7 @@ An ideal image for you if you want to try out [crystal](https://crystal-lang.org
 ## Contains
 * [ubuntu](https://ubuntu.com/)
 * [crystal](https://crystal-lang.org/)
-* [vim](https://www.vim.org/).  
+* [vim](https://www.vim.org/)
 
 ## Requirements
 * [Docker](https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=nemea&utm_term=dockerhomepage&utm_budget=growth)
