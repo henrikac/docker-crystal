@@ -12,13 +12,13 @@ Do you want to use VS Code instead of vim? Then it is recommended to use the [re
 ## Requirements
 * [Docker](https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=nemea&utm_term=dockerhomepage&utm_budget=growth)
 
-## Get image
-#### Pull from dockerhub
+### Pull from dockerhub
 ```bash
 docker pull henrikac/crystal:2.0.0
 ```
 
-#### Pull and run from dockerhub
+### Run henrikac/crystal:2.0.0
 ```bash
 docker run -it henrikac/crystal:2.0.0
 ```
+*Note:* add `--network=host` if you want to access e.g. `http://localhost:8080` (`crystal play`) outside the container.
